@@ -11,7 +11,7 @@ namespace EX_1E
                 Console.Write("Please enter the integer to convert: ");
                 int number = int.Parse(Console.ReadLine());
 
-                Console.Write("Please enter the base to convert from [ 2 | 8 | 10]: ");
+                Console.Write("Please enter the base to convert from [ 2 | 8 | 10 ]: ");
                 int numBase = int.Parse(Console.ReadLine());
 
 
